@@ -1,4 +1,4 @@
-<a href="#"><img width="50%" height="auto" src="https://media.giphy.com/media/ny7UCd6JETnmE/giphy.gif" height="175px"/></a>
+<a href="#"><img width="50%" height="auto" src="https://media.giphy.com/media/ny7UCd6JETnmE/giphy.gif" height="85px"/></a>
 
 <h1 align="center">Hola Amigos! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> This is Harshit </h1>
 <h3 align="center">A Engineering Student.</h3>
