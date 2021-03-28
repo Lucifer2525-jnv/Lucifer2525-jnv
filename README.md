@@ -1,7 +1,7 @@
-<a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="125px"/></a>
 
 <h1 align="center">Hola Amigos!, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">This is Harshit </h1>
-<h3 align="center">A Engineering Student.</h3>
+<h3 align="center">A Engineering Student at NIT Allahabad.</h3>
 
 
 ## 🙋‍♂️ About Me
