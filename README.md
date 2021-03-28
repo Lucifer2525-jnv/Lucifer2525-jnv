@@ -47,6 +47,6 @@
 
 <a href = "https://www.facebook.com/harshit.chaudhari.1048"><img src="https://img.icons8.com/color/facebook"/></a>
 <a href = "https://www.linkedin.com/in/harshit-chaudhari-9a665820a/"><img src = "https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "harshit.chaudhari.2525@gmail.com"><img src="https://img.icons8.com/color/gmail"/></a>
+<a href = "https://mail.google.com/mail/u/0/"><img src="https://img.icons8.com/color/gmail"/></a>
 
 </p>
