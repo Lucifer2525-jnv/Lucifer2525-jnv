@@ -1,6 +1,6 @@
-<a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/l1J9LMNeWISnddECA/giphy.gif" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="175px"/></a>
 
-<h1 align="center">Hola Amigos! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> This is Harshit </h1>
+<h1 align="center">Hola Amigos!, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">This is Harshit </h1>
 <h3 align="center">A Engineering Student.</h3>
 
 
@@ -10,7 +10,9 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 🤖 Contributed to various funded prjects based on IOT and Web Services.
+- 🤖 Contributed to various **Funded projects based on IOT and Web Services**.
+
+- 🦾 **Robothon** Participant with featured **"Mars-Rover"**.
 
 
 ## 🚀 Languages and Tools:
